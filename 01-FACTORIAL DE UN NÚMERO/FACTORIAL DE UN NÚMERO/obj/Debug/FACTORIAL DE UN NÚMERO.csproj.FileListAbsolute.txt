@@ -1,0 +1,8 @@
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\bin\Debug\FACTORIAL DE UN NÚMERO.exe.config
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\bin\Debug\FACTORIAL DE UN NÚMERO.exe
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\bin\Debug\FACTORIAL DE UN NÚMERO.pdb
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\obj\Debug\FACTORIAL DE UN NÚMERO.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\obj\Debug\FACTORIAL DE UN NÚMERO.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\obj\Debug\FACTORIAL DE UN NÚMERO.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\obj\Debug\FACTORIAL DE UN NÚMERO.exe
+C:\Users\carlo\source\repos\FACTORIAL DE UN NÚMERO\FACTORIAL DE UN NÚMERO\obj\Debug\FACTORIAL DE UN NÚMERO.pdb
