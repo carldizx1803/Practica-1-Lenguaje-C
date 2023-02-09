@@ -1,0 +1,3 @@
+C:\Users\carlo\source\repos\CALCULADORA_VOLUMEN\CALCULADORA_VOLUMEN\obj\Debug\CALCULADORA_VOLUMEN.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CALCULADORA_VOLUMEN\CALCULADORA_VOLUMEN\obj\Debug\CALCULADORA_VOLUMEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\CALCULADORA_VOLUMEN\CALCULADORA_VOLUMEN\obj\Debug\CALCULADORA_VOLUMEN.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALCULADORA_VOLUMEN", "CALCULADORA_VOLUMEN\CALCULADORA_VOLUMEN.csproj", "{57881824-984E-45FA-98CE-64D97E9E8BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57881824-984E-45FA-98CE-64D97E9E8BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57881824-984E-45FA-98CE-64D97E9E8BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57881824-984E-45FA-98CE-64D97E9E8BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57881824-984E-45FA-98CE-64D97E9E8BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E240A358-116D-4CEE-A558-6C5B7827FE1D}
+	EndGlobalSection
+EndGlobal
