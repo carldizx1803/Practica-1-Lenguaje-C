@@ -1,0 +1,8 @@
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\bin\Debug\CALCULADORA_FÍSICA.exe.config
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\bin\Debug\CALCULADORA_FÍSICA.exe
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\bin\Debug\CALCULADORA_FÍSICA.pdb
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\obj\Debug\CALCULADORA_FÍSICA.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\obj\Debug\CALCULADORA_FÍSICA.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\obj\Debug\CALCULADORA_FÍSICA.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\obj\Debug\CALCULADORA_FÍSICA.exe
+C:\Users\carlo\source\repos\CALCULADORA_FÍSICA\CALCULADORA_FÍSICA\obj\Debug\CALCULADORA_FÍSICA.pdb
