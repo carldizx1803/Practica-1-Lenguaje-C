@@ -1,0 +1,8 @@
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.exe.config
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.exe
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.pdb
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.exe
+C:\Users\carlo\source\repos\FIGURAS_GEOMÉTRICAS\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.pdb
